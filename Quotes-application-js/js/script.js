@@ -8,7 +8,7 @@ let quotes = [
     {
         quote: "The way to get started is to quit talking and begin doing.",
         author: "Walt Disney",
-        imgurl: "https://static.wikia.nocookie.net/waltereliasdisney/images/a/af/Walter_Elias_Disney.jpg/revision/latest/thumbnail/width/360/height/450?cb=20181026084149",
+        imgurl: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Walt_Disney_with_film_roll_and_Mickey_Mouse_on_his_right_arm%2C_year_1935.jpg/250px-Walt_Disney_with_film_roll_and_Mickey_Mouse_on_his_right_arm%2C_year_1935.jpg",
         birthPlace: "Chicago, Illinois, USA"
     },
     {
@@ -74,7 +74,7 @@ let quotes = [
     {
         quote: "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
         author: "Helen Keller",
-        imgurl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3TEk3eqUSoacDBsbnLDR2B4OE--QUNblZg&s",
+        imgurl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0e2XOvDimD4BEAd-5eavWIrT0SIX9CjT0A&s",
         birthPlace: "Tuscumbia, Alabama, USA"
     },
     {
@@ -86,7 +86,7 @@ let quotes = [
     {
         quote: "Whoever is happy will make others happy too.",
         author: "Anne Frank",
-        imgurl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgh-AfCktF9V7c7FVSTRh8EDHESV8u8EP5w&s",
+        imgurl: "https://media.newyorker.com/photos/590951911c7a8e33fb38a405/master/pass/frank-bieber.jpg",
         birthPlace: "Frankfurt, Germany"
     },
     {
@@ -116,7 +116,7 @@ let quotes = [
     {
         quote: "Life is either a daring adventure or nothing at all.",
         author: "Helen Keller",
-        imgurl: "https://npg.si.edu/sites/default/files/teacher_resources_Helen-Keller.jpg",
+        imgurl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0e2XOvDimD4BEAd-5eavWIrT0SIX9CjT0A&s",
         birthPlace: "Tuscumbia, Alabama, USA"
     },
     {
